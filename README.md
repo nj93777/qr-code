@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/nj93777/qr-code
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://nj93777.github.io/qr-code/
 
 - Semantic HTML5 markup
 - CSS custom properties
